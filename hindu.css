@@ -439,9 +439,11 @@ justify-content:start ;
     margin-left: 42px;
     width: 269px;
     margin-bottom: 10px;
-    height: 350px;;
+    height: 400px;;
     color: #FFFFFF;
     padding-left: 35px;
+    position: relative;
+    bottom: 50px;
 }
 .pricebox .item3 button{
    
